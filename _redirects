@@ -1,0 +1,13 @@
+# Old WordPress pages -> sections of the new one-page site
+/why-pvc        /#story      301
+/why-pvc/       /#story      301
+/products       /#products   301
+/products/      /#products   301
+/our-company    /#story      301
+/our-company/   /#story      301
+/contact        /#contact    301
+/contact/       /#contact    301
+/order          https://thepvcdirectapp.com/?utm_source=website  301
+/app            https://thepvcdirectapp.com/?utm_source=website  301
+# anything else from the old site -> home
+/*              /            301
